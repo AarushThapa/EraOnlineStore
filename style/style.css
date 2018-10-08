@@ -1,0 +1,90 @@
+body{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+#maincontainer{
+	max-width: 100%;
+	margin:0 0 0 0;
+	padding: 0 0 0 0;
+}
+#headercontainer{
+	width:100%;
+	margin:0;
+	padding:0;
+}
+#logoimg{
+	width:50px;
+	height:50px;
+}
+#signin{
+	width:50px;
+	height:50px;
+}
+#cart{
+	width:50px;
+	height:50px;
+}
+#searchbar{
+	width: 80%;
+
+}
+#searchbutton{
+	width:50px;
+}
+#cart{
+	width: 50px;
+	height: auto;
+}
+
+
+#navbar{
+	width:100%;
+	background:#245B96;
+	color:white;
+
+}
+#navbar ul li{
+	display:inline-block;
+	text-decoration-style: none;
+	color:white;
+}
+#navbar ul{
+	padding: 0 15px 0 25px;
+	color:white;
+	text-decoration-style: none;
+}
+#navbar a{
+	color:white;
+	text-decoration: none;
+	margin-right:80px;
+}
+#title a{
+	color:black;
+	font-size: 60px;
+	text-decoration: none;
+}
+.dropbtn{
+
+	width:50px;
+}
+.dropdown: hover{
+	position: relative;
+    display: inline-block;	
+}
+
+.dropdown-content {
+    display: inline;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    }
+
+.dropdown-content a{
+	color: black;
+	display: block;
+}
+
+
